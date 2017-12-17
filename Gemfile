@@ -16,6 +16,7 @@ gem 'simplecov', '~> 0.15.1', :require => false, :group => :test
 gem 'devise'
 
 # JWT for Devise
+gem 'jwt', '~> 2.1'
 gem 'devise-jwt', '~> 0.5.1'
 
 # Use sqlite3 as the database for Active Record
