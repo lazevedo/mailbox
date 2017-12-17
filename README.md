@@ -3,9 +3,11 @@
 Mailbox - Aplicação para desafio do Agenda Edu.
 
 * Ruby version
+
 ruby 2.4.3p205
 
 * Rails version
+
 Rails 5.1.4
 
 * System dependencies
