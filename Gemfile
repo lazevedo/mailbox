@@ -9,6 +9,9 @@ end
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
 
+# Code coverage
+gem 'simplecov', '~> 0.15.1', :require => false, :group => :test
+
 # Devise for auth
 gem 'devise'
 
